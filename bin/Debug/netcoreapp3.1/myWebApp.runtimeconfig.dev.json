@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Anwaa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Anwaa\\.nuget\\packages"
+    ]
+  }
+}
